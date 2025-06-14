@@ -28,4 +28,4 @@
 
 📫 Find me here
 - GitHub: [github.com/DOMINIQUERAZA](https://github.com/DOMINIQUERAZA)  
-- Email: _[dominiqueraza9@gmail.com]_
+- Email: dominiqueraza9@gmail.com
