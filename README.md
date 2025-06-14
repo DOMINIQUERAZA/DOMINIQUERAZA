@@ -10,10 +10,10 @@
  🌐 Web Development:
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, Vue.js, React
 - **Backend**: PHP, Laravel, Express.js, Node.js
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, sqlite
 
  🖥️ Desktop Applications:
-- C# (.NET WinForms)
+- C# (WinForms)
 - Java (Swing)
 - Git & GitHub  
 - Visual Studio Code, NetBeans, Visual Studio  
