@@ -1,4 +1,4 @@
- 👋 Hi, I'm Dom RAZA
+ 👋 Hi, I'm RAZANAMPARANY Mandimbisoa Dominique 
 
 🎓 I'm a university student in Computer Science, passionate about building Web and Desktop applications.  
 💻 I mainly work with modern technologies like Vue.js, React, Express.js, Laravel, and C#.
