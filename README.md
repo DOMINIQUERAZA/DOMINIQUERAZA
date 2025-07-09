@@ -1,31 +1,14 @@
- 👋 Hi, I'm RAZANAMPARANY Mandimbisoa Dominique 
+👋 Hello, I'm Mandimbisoa Dominique RAZANAMPARANY
 
-🎓 I'm a university student in Computer Science, passionate about building Web and Desktop applications.  
-💻 I mainly work with modern technologies like Vue.js, React, Express.js, Laravel, and C#.
+Computer Science Student | Passionate about Web & Desktop Development
+Full-Stack Enthusiast | Building modern applications with robust technologies
 
----
+Frontend: HTML, CSS, Bootstrap, JavaScript, Vue.js 
+Backend: PHP (Laravel), Node.js (Express.js)
+Databases: MySQL, SQLite
 
- 💼 Technologies I use:
+Tools: Git/GitHub, VS Code, Visual Studio, NetBeans
 
- 🌐 Web Development:
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, Vue.js, React
-- **Backend**: PHP, Laravel, Express.js, Node.js
-- **Databases**: MySQL, sqlite
+Contact :
+Email: dominiqueraza9@gmail.com
 
- 🖥️ Desktop Applications:
-- C# (WinForms)
-- Java (Swing)
-- Git & GitHub  
-- Visual Studio Code, NetBeans, Visual Studio  
-
----
-
- 🚀 Currently working on:
-- 🔭 Personal projects to improve my full-stack skills.  
-- 📚 Deepening my knowledge in React and REST API integration with Express.js.  
-
----
-
-📫 Find me here
-- GitHub: [github.com/DOMINIQUERAZA](https://github.com/DOMINIQUERAZA)  
-- Email: dominiqueraza9@gmail.com
